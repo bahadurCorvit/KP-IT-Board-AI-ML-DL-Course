@@ -32,7 +32,7 @@ This repository hosts course materials for the **Artificial Intelligence Trainin
 
 ## 👨‍🏫 Instructor
 
-**Muhammad Fawad Bahadur**  
+**Muhammad Fawad (Fawad Bahadur)**  
 AI Instructor — KP-IT Board  
 Expert in ML, DL, Computer Vision, and Generative AI  
 
