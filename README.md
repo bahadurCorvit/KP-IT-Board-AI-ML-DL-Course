@@ -7,7 +7,7 @@ This repository hosts course materials for the **Artificial Intelligence Trainin
 - **Duration:** 3 Months  
 - **Eligibility:** 8th semester and onward students  
 - **Mode:** Instructor-Led | Practical & Project-Based  
-- **Level:** Beginner to Intermediate  
+- **Level:** Intermediate to Expert
 
 ## 🧰 Tools & Platforms
 
